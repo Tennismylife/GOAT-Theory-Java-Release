@@ -14,5 +14,6 @@ The 'proportion questions' explodes in an infinite combinations series, just lik
 finally the last but not the least, the cryptography using a brute force applied to proportions
 
 
-#WATCH THE VIDEO
+# WATCH THE VIDEO
+
 [![Watch the video](https://user-images.githubusercontent.com/49320517/116327351-e3137b00-a7c6-11eb-836f-c812dd8d5c67.jpg)](https://www.youtube.com/watch?v=kN49WwRbnCs)

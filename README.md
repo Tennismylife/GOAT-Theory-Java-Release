@@ -12,3 +12,5 @@ All the GOAT Theory ia a 'question of proportions', simple to say but difficult 
 The 'proportion questions' explodes in an infinite combinations series, just like a linear clock (not circular) 
 
 finally the last but not the least, the cryptography using a brute force applied to proportions
+
+https://www.youtube.com/watch?v=kN49WwRbnCs

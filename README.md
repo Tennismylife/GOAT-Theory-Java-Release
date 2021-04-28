@@ -4,4 +4,6 @@ The GOAT Theory is a pillar on Tennismylife work, but it is very difficult to im
 
 All the GOAT Theory ia a 'question of proportions', simple to say but difficult to do. Using this app is available to touch with our hands the 'dinamic proportions' explained [here](http://www.tennismylife.org/the-goat-theory-una-questione-di-proporzioni/)
 
-The 'proportion questions' explodes in an infinite 
+The 'proportion questions' explodes in an infinite combinations series, just like a linear clock (not circular) 
+
+finally the last but not the least, the cryptography using a brute force applied to proportions

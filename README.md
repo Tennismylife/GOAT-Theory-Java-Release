@@ -13,4 +13,8 @@ The 'proportion questions' explodes in an infinite combinations series, just lik
 
 finally the last but not the least, the cryptography using a brute force applied to proportions
 
-https://www.youtube.com/watch?v=kN49WwRbnCs
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=kN49WwRbnCs" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
